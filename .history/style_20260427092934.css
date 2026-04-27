@@ -1,0 +1,31 @@
+
+
+.flex-container{
+    display: flex;
+    background-color: rgb(95, 40, 109);
+    margin: auto;
+}
+
+.leftside{
+    width:33%;
+    float:left;
+    background-color: rgb(153, 52, 184);
+
+}
+
+.rightside{
+
+}
+
+.midplace{
+    background-color: purple;
+    color: azure;
+
+}
+
+
+  display: flex;
+  justify-content: center; /* bikin menu ke tengah */
+  list-style: none;
+  margin: 0;
+  padding: 0;

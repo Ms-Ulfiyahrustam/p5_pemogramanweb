@@ -1,0 +1,21 @@
+
+
+
+
+.flex-container{
+    display: flex;
+    background-color: rgb(95, 40, 109);
+    margin: auto;
+}
+
+.leftside{
+    width:33%;
+    float:left;
+    background-color: rgb(153, 52, 184);
+
+}
+
+
+.midplace{
+    background-color: rgb(rgb(132, 107, 221), rgb(170, 220, 233), rgb(130, 130, 255))
+}

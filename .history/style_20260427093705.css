@@ -1,0 +1,49 @@
+
+
+.flex-container{
+    display: flex;
+    background-color: rgb(95, 40, 109);
+    margin: auto;
+}
+
+.leftside{
+    width:90px;
+    padding: 40px;
+    float:left;
+    background-color: rgb(153, 52, 184);
+    margin-top: 30px;
+
+}
+
+.rightside{
+
+}
+
+.midplace{
+    background-color: purple;
+    color: azure;
+
+}
+
+.menu {
+  background-color: purple;
+  padding: 10px 0;
+}
+
+.menu ul {
+  display: flex;
+  justify-content: right; 
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu li {
+  margin: 0 20px;
+}
+
+.menu a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
